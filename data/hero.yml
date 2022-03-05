@@ -1,13 +1,14 @@
 ---
 enable: true
 topTitle: Hello, I am Natasha
-content: >
+content: |
   # I am here for your personal business
-
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
-buttonName: Contact me
+  Enjoy team diversity and increase their networks among others people in various fields by
+buttonName: Contact us
 buttonURL: contact
 image: images/hero/2960351.jpg
 videoThumb: images/hero/popup-thumb.png
 videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+title: "#秦皇岛普洋会计服务有限公司"
+subtitle: "##工商税务服务 财会记账服务"
+description: 事业路上的好帮手 人生旅途的好朋友
