@@ -1,9 +1,5 @@
 ---
 enable: true
 topTitle: Blog
-title: >
-  ## Recent Article
-
-  Enjoy team diversity and increase their networks among others people in various fields by provided.
-
+title: "## 普洋动态\n"
 buttonTarget: blog
