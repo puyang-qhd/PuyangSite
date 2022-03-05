@@ -11,16 +11,10 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: subtitle
-  label: subtitle
 - type: field_group_list
   name: service
   label: service
   fields:
-  - type: text
-    name: title
-    label: title
   - type: textarea
     name: content
     label: content
