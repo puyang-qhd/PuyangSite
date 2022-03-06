@@ -39,10 +39,10 @@ weight = 4
 blogPageURL = "blog"
 contactLink = "联系我们"
 copyright = "秦皇岛普洋会计服务有限公司"
-footerLogo = "/images/logo-1.png"
+footerLogo = "/images/logo-2.png"
 formspreeURL = ""
 googleAnalytics = ""
-logo = "/images/logo-1.png"
+logo = "/images/logo-2.png"
 [params.address]
 address = "河北省秦皇岛市海港区西港路金港花园东门金港房地产大厦五楼"
 email = "27729911@qq.com"
