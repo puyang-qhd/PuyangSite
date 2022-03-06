@@ -1,45 +1,35 @@
 ---
 enable: true
-topTitle: Working Area
-title: >
-  ## Creative Services
-
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+topTitle: 主要服务
+title: 踏实的服务理念，创新的服务模式
 service:
-  - content: >
-      #### UI/UX Design 
+- content: |
+    #### 账务管理
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development 
+    外部账务管理（代理记账）、内部账务管控（内控审计）、财务监管、风险提醒。
+  image: images/service/ui-ux.svg
+- content: |
+    #### 工商税务
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
-  - content: >
-      #### Creative Design 
+    工商、税务、社保业务，包括公司注册、变更、注销及转股。
+  image: images/service/web.svg
+- content: |
+    #### 财务制度
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
-  - content: >
-      #### Branding
+    单项或整体财务管控、财务制度量身定制、进项票认证、内部账务审计、乱账整理。
+  image: images/service/creative.svg
+- content: |
+    #### 税务顾问
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
+    担任企业税收顾问，涉税实务咨询、提供税收筹划。
+  image: images/service/branding.svg
+- content: |
+    #### 资质认定
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
+    资质许可证、商标注册、高新企业资格认定。
+  image: images/service/ui-ux.svg
+- content: |
+    #### 财务辅导
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
+    行业财务专业辅导、品牌价值评估、上市财税辅导。
+  image: images/service/web.svg
