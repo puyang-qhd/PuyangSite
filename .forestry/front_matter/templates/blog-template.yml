@@ -15,6 +15,5 @@ fields:
   name: postImage
   label: postImage
 pages:
-- content/blog/you-must-know-this-before-becoming-a-designer.md
 - content/blog/普洋客户篇-山后陆州文化.md
 - content/blog/营改增政策-分税目明细表-收藏.md
