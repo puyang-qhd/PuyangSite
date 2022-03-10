@@ -15,7 +15,6 @@ fields:
   name: postImage
   label: postImage
 pages:
-- content/blog/3.md
 - content/blog/企业被列入经营异常了如何处理.md
 - content/blog/公司经营不下去了-到底零申报好-还是注销好.md
 - content/blog/关注-常见的不需要发票的几种支出.md
