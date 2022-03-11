@@ -37,7 +37,7 @@ url = "#"
 weight = 4
 [params]
 blogPageURL = "blog"
-contactLink = "联系我们"
+contactLink = "contact"
 copyright = "秦皇岛普洋会计服务有限公司"
 footerLogo = "/images/logo-2.png"
 formspreeURL = "https://formspree.io/f/xyyojwdb"
