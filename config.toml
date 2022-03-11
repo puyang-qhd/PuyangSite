@@ -40,7 +40,7 @@ blogPageURL = "blog"
 contactLink = "联系我们"
 copyright = "秦皇岛普洋会计服务有限公司"
 footerLogo = "/images/logo-2.png"
-formspreeURL = ""
+formspreeURL = "https://formspree.io/f/xyyojwdb"
 googleAnalytics = ""
 logo = "/images/logo-2.png"
 [params.address]
