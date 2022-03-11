@@ -17,11 +17,11 @@ url = "#service"
 weight = 3
 [[menu.main]]
 name = "普洋动态"
-url = "#blog"
+url = "/blog"
 weight = 7
 [[menu.main]]
 name = "联系我们"
-url = "#contact"
+url = "/contact"
 weight = 8
 [[menu.sitemap]]
 name = "普洋简介"
